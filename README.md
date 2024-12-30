@@ -2,14 +2,14 @@
 Code related to the Xiao et al 2025 C. parvum polycistron paper
 
 
-# Codes and Scripts used for C. parvum polycistron manuscript
+## Codes and Scripts used for C. parvum polycistron manuscript
 
 Included are all codes used for computation analysis in the polycistron manuscript.
 
 
 
 
-## Shell Scripts
+### Shell Scripts
 
 splice_leader_discovery: Small RNAseq based splice-leader discovery
 
@@ -34,7 +34,7 @@ start_stop_codon_sequence_extract: Analaysis of Kozak sequence and polyadenylati
 peptide_analysis: Analysis of peptide mapping and enrichment
 
 
-## Python Scripts
+### Python Scripts
 
 polycis_finder: Taking TAMA discovered and SQANTI3 processed transcript models and apply denovo polycistron identification
 
@@ -43,7 +43,7 @@ polycis_chi_square_distribution and polycis_autocorrelation: Analysis for whethe
 codon_analysis: Scripts used for condon usage
 
 
-## R Scriots
+### R Scriots
 
 polya_R: R scripts used for downstream visulizing and analyzing of poly-A tail length
 
