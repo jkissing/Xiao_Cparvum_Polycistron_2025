@@ -85,7 +85,7 @@ This project focuses on analyzing polycistronic transcription in *Cryptosporidiu
 ## Contributors
 
 - **Author:** Xiao et al. (2025 manuscript lead)
-- **Maintainer:** [Your Name](https://github.com/jkissing)
+- **Maintainer:** [Rui Xiao](https://github.com/ruicatxiao)
 
 ---
 
