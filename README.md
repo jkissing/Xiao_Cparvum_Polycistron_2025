@@ -27,7 +27,7 @@ This project focuses on analyzing polycistronic transcription in *Cryptosporidiu
 
 ## Features
 
-- Comprehensive analysis pipeline for RNA-seq and ATAC-seq.
+- Comprehensive analysis pipeline for long / short read RNA-seq, and ATAC-seq.
 - Tools for transcript modeling and codon usage analysis.
 - Poly-A tail length assessment and single-cell atlas visualization.
 - Easily adaptable scripts for diverse datasets.
